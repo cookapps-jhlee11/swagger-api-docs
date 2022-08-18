@@ -6,7 +6,7 @@ window.onload = function() {
         //url: "https://petstore.swagger.io/v2/swagger.json",
         //url: "http://tech-swagger-test.s3-website.ap-northeast-2.amazonaws.com/swagger/swagger-spec.json",
         urls:[
-            {"url":"http://tech-swagger-test.s3-website.ap-northeast-2.amazonaws.com/swagger/swagger-spec.json","name":"nestjs-boilerplate-api"},
+            {"url":"http://tech-swagger-test.s3-website.ap-northeast-2.amazonaws.com/swagger/swagger-spec.json","name":"nestjs-boilerplate-app-api"},
             {"url":"https://petstore.swagger.io/v2/swagger.json","name":"Swagger-official-example-api"},
         ],
         dom_id: '#swagger-ui',
