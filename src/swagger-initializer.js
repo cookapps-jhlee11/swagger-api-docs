@@ -1,4 +1,5 @@
-const config = require("./config/config");
+//const config = require("./config/config");
+import { config } from './config/config'
 
 window.onload = function() {
     //<editor-fold desc="Changeable Configuration Block">
