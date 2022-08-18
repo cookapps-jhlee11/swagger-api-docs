@@ -2,6 +2,7 @@
   "name": "swagger-ui-dist",
   "version": "4.13.2",
   "main": "index.js",
+  "type":"module",
   "repository": "git@github.com:swagger-api/swagger-ui.git",
   "contributors": [
     "(in alphabetical order)",

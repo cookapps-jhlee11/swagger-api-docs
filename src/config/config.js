@@ -1,5 +1,5 @@
-exports = {
-    config: [
+export const config =
+    [
         {
             "url": "http://tech-swagger-test.s3-website.ap-northeast-2.amazonaws.com/api-docs/swagger-spec-nestjs-boilerplate.json",
             "name": "nestjs-boilerplate-app-api"
@@ -9,4 +9,3 @@ exports = {
             "name": "Swagger-official-example-api"
         },
     ]
-}
